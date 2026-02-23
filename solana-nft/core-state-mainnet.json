@@ -1,0 +1,150 @@
+{
+  "collectionAddress": "5ZtnfyGTFMnjRKLzTSfY5JZV6AMMiqQcJfyP4Xqf3W25",
+  "mintedNfts": [
+    {
+      "index": 0,
+      "name": "1",
+      "asset": "8bm5DGLitkb6bGkMjiJHMhdFmg2Z22nfbpqRE2gk5N9V"
+    },
+    {
+      "index": 1,
+      "name": "2",
+      "asset": "Gzq8BJRy1dbTvF4ngdFYMJo3jxWNdSjX5JB6mkhhf8Cv"
+    },
+    {
+      "index": 2,
+      "name": "3",
+      "asset": "14QU3KMDuj1HGyVnNZiaQ7BKZCt1Z7DG3GVxHJVSUHrB"
+    },
+    {
+      "index": 3,
+      "name": "4",
+      "asset": "6TmEo5L9yxdnaS3KPFXJCeRQb4uuFAdVCrwtyDsiKWMF"
+    },
+    {
+      "index": 4,
+      "name": "5",
+      "asset": "BdQwDYqzq7kqos8f5vqDQfCLARHChARXFVrT8c8qunfC"
+    },
+    {
+      "index": 5,
+      "name": "6",
+      "asset": "D7MNbiiqXaDecekdzVgV6G5yuH1wJHnkkTcGhxhSpc8b"
+    },
+    {
+      "index": 6,
+      "name": "7",
+      "asset": "D224BCmhSZwWJa2xkqPwSYbP5uErsU9HpBoenmLziYdv"
+    },
+    {
+      "index": 7,
+      "name": "8",
+      "asset": "4EcYgXMXcMUJGXn2o3wxq51hLmv56tvHn7kYc2MA6Gtr"
+    },
+    {
+      "index": 8,
+      "name": "9",
+      "asset": "5Cg3hDj3PU8sRkj7LBggPrnMgebebiUHnRftoVYzJNGA"
+    },
+    {
+      "index": 9,
+      "name": "10",
+      "asset": "9ZimYkBYR3DK3VJDvNaaT6tJMneTZ8ZG59qkQVnyrsFC"
+    },
+    {
+      "index": 10,
+      "name": "11",
+      "asset": "GWRGdoLTt46MxEtf9yrFgWqWEvwvT2G8B1VtXkHctxXp"
+    },
+    {
+      "index": 11,
+      "name": "12",
+      "asset": "8siiv3yowKEXe5589Z3wsVSAZrCZ4Zc5MN8eWjo8Zwy9"
+    },
+    {
+      "index": 12,
+      "name": "13",
+      "asset": "64DswpR2PsQPr8FKSD8RzkKzWDeocGiuDYrX2K66QTnC"
+    },
+    {
+      "index": 13,
+      "name": "14",
+      "asset": "EqwWfugmZrRYScfKAqP64wkdhMcNqNmBQNtWCeNpcrGk"
+    },
+    {
+      "index": 14,
+      "name": "15",
+      "asset": "ASgmwrH8ZHEP1YYarzUpUV3HFfcC9NRGLijEyVb4P4FD"
+    },
+    {
+      "index": 15,
+      "name": "16",
+      "asset": "5Q24G2gBYH8coufMptYdZX21znLJBojgNNkNe5YwNQyx"
+    },
+    {
+      "index": 16,
+      "name": "17",
+      "asset": "sNUwQo5hsLvYvsEv7GAXif9GkaJcUwPHWorHqWvJBTh"
+    },
+    {
+      "index": 17,
+      "name": "18",
+      "asset": "5Bv1YPSVvQMz1G632rsLunfHb57LGVKVGrgs7eCGvjzw"
+    },
+    {
+      "index": 18,
+      "name": "19",
+      "asset": "7tUizSegPFf7gjAsHw9HZngQt2zWpa3NnEAd6DTCWAzo"
+    },
+    {
+      "index": 19,
+      "name": "20",
+      "asset": "9crfJde2cnxks32KSCVphogESp5SdHZFN3NbzsJEQsuG"
+    },
+    {
+      "index": 20,
+      "name": "21",
+      "asset": "DwutGwhmRuEhHpAfnSZtYRkzRKCgwjJGuModE4uhzwtA"
+    },
+    {
+      "index": 21,
+      "name": "22",
+      "asset": "S6G9Qt3xLipRiun9YKU7jBN9xGrTc3v7n3uDgyWKzXC"
+    },
+    {
+      "index": 22,
+      "name": "23",
+      "asset": "GKMnk1xFVM2aStNazaKfm1YybeDqzRSMPuU8L7c3PAnS"
+    },
+    {
+      "index": 23,
+      "name": "24",
+      "asset": "CCXG53Qz6LzDYDmhaNSNmUizrYtDEbCtcWRyTC6WcpoY"
+    },
+    {
+      "index": 24,
+      "name": "25",
+      "asset": "3WChuvD4D8Q37ffFTAjsciLgZnAST2xsY958bURnuY3Y"
+    },
+    {
+      "index": 25,
+      "name": "26",
+      "asset": "7awDTnnSFB3sYHatKfsyi8USZqQAvCXtRGxS4szf6vvx"
+    },
+    {
+      "index": 26,
+      "name": "27",
+      "asset": "4WxQJJvBVfRthfisZNLquTfzJMYnGf4a7YBFmChJPPX3"
+    },
+    {
+      "index": 27,
+      "name": "28",
+      "asset": "Bp1udyX7WYNLoreEraAMxZUTKmTFfpfSyz8nNHp1MKf7"
+    },
+    {
+      "index": 28,
+      "name": "29",
+      "asset": "DnxfqTnAkaNuwdzCMwecLMeTFiHyE52XwrAPxD37FhJo"
+    }
+  ]
+}

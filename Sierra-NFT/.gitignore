@@ -1,0 +1,11 @@
+node_modules
+artifacts
+cache
+typechain-types
+.env
+.env.local
+coverage
+dist
+frontend/.next
+frontend/tsconfig.tsbuildinfo
+.planning/

@@ -1,0 +1,21 @@
+{
+  "name": "worldland-nft-generator",
+  "version": "1.0.0",
+  "description": "WorldLand NFT Generative Art Engine - Modular layer-based NFT image and metadata generator",
+  "main": "src/main.js",
+  "scripts": {
+    "generate": "node src/main.js",
+    "verify": "node scripts/verify.js",
+    "preview": "node scripts/preview.js"
+  },
+  "keywords": [
+    "nft",
+    "generative-art",
+    "worldland"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.62",
+    "fs-extra": "^11.2.0"
+  }
+}

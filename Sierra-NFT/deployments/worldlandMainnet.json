@@ -1,0 +1,14 @@
+{
+  "network": "worldlandMainnet",
+  "chainId": 103,
+  "deployer": "0xC820D1e0A929c23C17Cb4bc8620F92e0084bFe8a",
+  "timestamp": "2026-02-12T18:34:31.942Z",
+  "contracts": {
+    "SharedNFT721": "0x2fB2BB023CF6f53675e96C031e0C4097F14ECB81",
+    "SharedNFT1155": "0x23A11d589bf1Bbd44188fB8cf76F3F4C5d3382f7",
+    "Marketplace": "0x25838171fc912aF51174c502de7029C40Ef4D89F",
+    "Auction": "0x49fb7863410897eCf60b07A1af47308719c4DdC3",
+    "Offers": "0xf463Dd737E856c3ACA21ccAF53f9E619Bf639800",
+    "Marketplace1155": "0x9FA059e0402A382FD58E041F5d5d915E8F159Eb9"
+  }
+}
